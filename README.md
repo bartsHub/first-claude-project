@@ -1,4 +1,4 @@
-# Java Project Template
+# Mikes Java Project Template
 
 A basic starting point for a Java application built with Maven.
 
